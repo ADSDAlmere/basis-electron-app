@@ -1,4 +1,4 @@
-# basis-electron-app
+# electron-voorbeeld
 Dit is een basis electron applicatie
 
 Nadat je deze repository gepulled hebt, moet je de volgende commando's nog uitvoeren:
